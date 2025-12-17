@@ -17,7 +17,7 @@
 
 ## 🌐 Connect With Me
 
-* 💼 [LinkedIn]([https://www.linkedin.com](https://www.linkedin.com/in/krishna-lagad-518158342/)/)
+* 💼 [LinkedIn](https://www.linkedin.com/in/krishna-lagad-518158342/)
 * 📧 Email: [your-email@example.com](mailto:krishplagad0503@gmail.com)
 * 📧 Email: [your-email@example.com](mailto:krishnaprakashlagad@gmail.com)
 ---
