@@ -18,8 +18,8 @@
 ## 🌐 Connect With Me
 
 * 💼 [LinkedIn](https://www.linkedin.com/in/krishna-lagad-518158342/)
-* 📧 Email: [your-email@example.com](mailto:krishplagad0503@gmail.com)
-* 📧 Email: [your-email@example.com](mailto:krishnaprakashlagad@gmail.com)
+* 📧 Email: [krishplagad0503@gmail.com](mailto:krishplagad0503@gmail.com)
+* 📧 Email: [krishnaprakashlagad@gmail.com](mailto:krishnaprakashlagad@gmail.com)
 ---
 
 ## 🛠️ Tech Stack
