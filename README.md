@@ -1,18 +1,19 @@
 # 👋 Hi, I'm Krishna Lagad
 
-🌟 **Frontend Developer | C++ & Java Learner | Engineering Student**
+🌟 **Full Stack Developer | C++ & Java Learner | Engineering Student**
 
 ---
 
 ## 🧑‍💻 About Me
 
-* 🎨 Frontend developer passionate about building **clean, responsive, and user-friendly websites**
-* 📚 Currently learning **C++ and Java** to strengthen problem-solving and core programming skills
-* 🌱 Exploring **modern web technologies** and improving UI/UX design sense
-* 🤝 Open to collaborating on **frontend projects and beginner-friendly open-source work**
-* 💬 Ask me about **HTML, CSS, JavaScript, and frontend basics**
-* ⚡ Fun fact: Balancing frontend creativity with hardcore C++ & Java logic 😄
-
+- 🎨 Fullstack developer passionate about building **clean, responsive, and user-friendly websites**
+- 📚 Currently learning **C++, Java, and Python** to strengthen problem-solving and core programming skills  
+- ⚙️ Expanding backend development using **Node.js and Express.js**
+- 🔐 Exploring **Cybersecurity fundamentals** and secure coding practices  
+- 🌱 Improving **UI/UX design** and modern web development skills  
+- 🤝 Open to collaborating on **frontend, backend, and open-source projects**  
+- 💬 Ask me about **HTML, CSS, JavaScript, Node.js, and programming basics**  
+- ⚡ Fun fact: Mixing creativity (frontend) with logic (C++, Java, Python) 😄  
 ---
 
 ## 🌐 Connect With Me
@@ -34,7 +35,6 @@
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=nextdotjs\&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge\&logo=vuedotjs\&logoColor=4FC08D)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge\&logo=threedotjs\&logoColor=white)
 
 ### 🎨 Styling & UI
@@ -43,19 +43,23 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge\&logo=sass\&logoColor=white)
 
+### 🔐 Cybersecurity 
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-FF0000?style=for-the-badge&logo=hackthebox&logoColor=white)
+![Networking](https://img.shields.io/badge/Networking-0078D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Web Security](https://img.shields.io/badge/Web_Security-4CAF50?style=for-the-badge&logo=owasp&logoColor=white)
+
+---
+### ⛓️ Blockchain (Learning)
+![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge&logo=blockchaindotcom&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+![Smart Contracts](https://img.shields.io/badge/Smart_Contracts-FF9900?style=for-the-badge&logo=solidity&logoColor=white)
+
 ### ⚙️ Build Tools & Package Managers
 
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge\&logo=vite\&logoColor=white)
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge\&logo=webpack\&logoColor=black)
 ![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge\&logo=npm\&logoColor=white)
 
-### 🧩 Design & Developer Tools
-
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge\&logo=figma\&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge\&logo=adobexd\&logoColor=white)
-![Chrome DevTools](https://img.shields.io/badge/DevTools-4285F4?style=for-the-badge\&logo=googlechrome\&logoColor=white)
-
----
 
 ## 📊 GitHub Stats
 
